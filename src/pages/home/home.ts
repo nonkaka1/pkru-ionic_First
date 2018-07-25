@@ -21,9 +21,7 @@ export class HomePage {
 
   ngOnInit(){
     this.items = [
-      {title: 'RoseSkeleton', description: 'test1'},
-      {title: 'RoseDale', description: 'test2'},
-      {title: 'RoseBlue', description: 'test3'}
+      
     ];
   }
 

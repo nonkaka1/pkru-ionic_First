@@ -13,6 +13,7 @@ import { DataProvider } from '../providers/data/data';
 import { IonicStorageModule } from '@ionic/storage';
 
 
+
 @NgModule({
   declarations: [
     MyApp,
